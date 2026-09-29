@@ -1,4 +1,4 @@
-# BusinessKit
+# BusinessKit AI
 
 BusinessKit is a native AI business operating system for retail, restaurants, hospitality, CRM, and accounting. AI agents are built into the core of the platform - not bolted on - with direct access to your operational data to automate work across every module. Built on a Bring Your Own Database (BYODB) architecture, so your business data stays in a database you own and control.
 
