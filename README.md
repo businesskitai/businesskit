@@ -14,7 +14,6 @@ Get the latest build from [Releases](https://github.com/businesskitai/businesski
 |---|---|
 | macOS | `.dmg` |
 | Windows | `.msi` |
-| iOS | `.ipa` (TestFlight / sideload) |
 | Android | `.apk` / `.aab` |
 
 Pick the asset for your OS from the latest release's Assets section.
