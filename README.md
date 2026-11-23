@@ -38,7 +38,7 @@ Operate, manage, and automate your business from any external AI assistant or co
 - **Antigravity / Gemini CLI**: `agy plugin install https://github.com/businesskitai/businesskit-agent`
 - **SuperConsole AI**: Install via URL in **Customize** → **Plugins** (`.superconsole-plugin/plugin.json`)
 - **Cursor & VS Code**: Pre-configured with `.cursorrules`, 23 universal slash commands, and 11 domain workflow skills
-- **Official MCP Registry**: [`io.github.businesskitai/agent`](https://registry.modelcontextprotocol.io) ([`@businesskit/agent`](https://www.npmjs.com/package/@businesskit/agent) on npm)
+- **Official MCP Registry**: [`io.github.businesskitai/agent`](https://registry.modelcontextprotocol.io/?q=businesskit) ([`@businesskit/agent`](https://www.npmjs.com/package/@businesskit/agent) on npm)
 
 ## Bring Your Own Database (BYODB)
 
